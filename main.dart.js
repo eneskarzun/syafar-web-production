@@ -91017,7 +91017,7 @@ A.Y1.prototype={}
 A.uh.prototype={
 H(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.CU(!0,A.en(A.cT(A.b([B.X9,B.cm,A.bS(r==null?"page not found":r,s,s,s,s,s,s,s),B.cm,new A.Fd(new A.a6z(a),B.X_,s)],t.p),B.M,B.cA,B.z),s,s),!0)}}
+return A.CU(!0,A.en(A.cT(A.b([B.X8,B.cm,A.bS(r==null?"page not found":r,s,s,s,s,s,s,s),B.cm,new A.Fd(new A.a6z(a),B.X_,s)],t.p),B.M,B.cA,B.z),s,s),!0)}}
 A.a6z.prototype={
 $0(){return A.Ay(this.a).Na("/",null)},
 $S:0}
@@ -91067,7 +91067,7 @@ A.uV.prototype={
 H(a){var s=null,r=A.azU(s,s,s,!0,!0,s,s,1,s,s,s,!1,s,!1,s,s,s,s,!0,s,s,s,s,s,B.Xf,s,s,s,1,s,!0),q=this.c
 q=q==null?s:"GoException: "+q.a
 if(q==null)q="page not found"
-return A.PX(r,s,A.en(A.cT(A.b([new A.De(q,s),A.Ea(B.X6,new A.acn(a),s)],t.p),B.M,B.cA,B.z),s,s))}}
+return A.PX(r,s,A.en(A.cT(A.b([new A.De(q,s),A.Ea(B.X5,new A.acn(a),s)],t.p),B.M,B.cA,B.z),s,s))}}
 A.acn.prototype={
 $0(){return A.Ay(this.a).Na("/",null)},
 $S:0}
@@ -93673,7 +93673,7 @@ B.b.D(n,B.bg.lS(new A.nG(l,k.a.b,k.b.d,j,p,o).Dk()))
 s=3
 return A.S(m.V5("StringList","saved_quotations",n),$async$v7)
 case 3:l=q.c
-if(l!=null){l.aj(t.Pu).f.Eg(A.ajD(null,null,null,B.he,B.fN,B.G,null,B.X8,null,B.kc,null,null,null,null,null,null,null,null,null,null))
+if(l!=null){l.aj(t.Pu).f.Eg(A.ajD(null,null,null,B.he,B.fN,B.G,null,B.X7,null,B.kc,null,null,null,null,null,null,null,null,null,null))
 l=q.c
 l.toString
 A.Ay(l).td("/saved",null,t.X)}return A.O(null,r)}})
@@ -93951,7 +93951,7 @@ p=i.Pr(B.oO,A.b(["Double","Triple","Quad"],g),"Tipe Kamar",new A.avc(i),p)
 g=b instanceof A.Db
 o=g?m:i.gamW()
 n=A.a63(m,m,B.a0,m,m,m,0,m,m,B.k,m,m,m,m,new A.cO(A.cC(14),B.n),m,m,m,m,m)
-return A.jn(B.bF,A.b([l,A.CU(!0,A.en(new A.dT(B.na,A.aHG(A.cT(A.b([B.fL,B.X4,B.mc,A.ds(m,A.aFy(m,A.cT(A.b([h,B.fK,r,B.fK,q,B.fK,p,B.mc,A.df(A.aAr(g?B.E6:B.WT,o,n),56,m)],s),B.bo,B.y,B.z),i.d),B.t,m,m,new A.cu(B.k,m,m,k,j,m,B.aa),m,m,m,B.f0,m,m,m),B.Rg],s),B.bo,B.y,B.z),B.Gr,B.h3),m),m,m),!0)],s),B.G,B.bR,m)},
+return A.jn(B.bF,A.b([l,A.CU(!0,A.en(new A.dT(B.na,A.aHG(A.cT(A.b([B.fL,B.X9,B.mc,A.ds(m,A.aFy(m,A.cT(A.b([h,B.fK,r,B.fK,q,B.fK,p,B.mc,A.df(A.aAr(g?B.E6:B.WT,o,n),56,m)],s),B.bo,B.y,B.z),i.d),B.t,m,m,new A.cu(B.k,m,m,k,j,m,B.aa),m,m,m,B.f0,m,m,m),B.Rg],s),B.bo,B.y,B.z),B.Gr,B.h3),m),m,m),!0)],s),B.G,B.bR,m)},
 $S:620}
 A.av9.prototype={
 $1(a){var s=this.a
@@ -94005,7 +94005,7 @@ m=this.d
 l=A.cT(A.b([B.X0,B.Ad,A.bS(m.dL(i.d),j,j,j,B.AJ,j,j,j)],o),B.aI,B.y,B.z)
 k=A.cC(8)
 q=A.b([new A.bc(0,B.D,B.l.hz(0.03),B.f,4)],q)
-return A.ds(j,A.cT(A.b([new A.bt(B.cy,n,j),A.ds(j,A.dA(A.b([l,A.ds(j,A.cT(A.b([B.X5,B.Ad,A.bS(m.dL(i.e),j,j,j,B.VM,j,j,j)],o),B.dF,B.y,B.z),B.t,j,j,new A.cu(B.k,j,j,k,q,j,B.aa),j,j,j,B.ke,j,j,j)],o),B.M,B.db,B.z,0),B.t,j,j,B.C7,j,j,j,B.of,j,j,j)],o),B.bo,B.y,B.z),B.t,j,j,new A.cu(B.k,j,j,r,p,j,B.aa),j,j,B.oe,j,j,j,j)}}
+return A.ds(j,A.cT(A.b([new A.bt(B.cy,n,j),A.ds(j,A.dA(A.b([l,A.ds(j,A.cT(A.b([B.X4,B.Ad,A.bS(m.dL(i.e),j,j,j,B.VM,j,j,j)],o),B.dF,B.y,B.z),B.t,j,j,new A.cu(B.k,j,j,k,q,j,B.aa),j,j,j,B.ke,j,j,j)],o),B.M,B.db,B.z,0),B.t,j,j,B.C7,j,j,j,B.of,j,j,j)],o),B.bo,B.y,B.z),B.t,j,j,new A.cu(B.k,j,j,r,p,j,B.aa),j,j,B.oe,j,j,j,j)}}
 A.qb.prototype={
 cG(a){var s=a.a,r=this.a,q=s[8]
 r.$flags&2&&A.aw(r)
@@ -98025,10 +98025,10 @@ B.oE=new A.Mv(0,"tight")
 B.d0=new A.Mv(1,"loose")
 B.at=new A.h2(700)
 B.AM=new A.m(!0,B.k,null,null,null,null,18,B.at,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.X7=new A.cQ("Quotation Tersimpan",null,B.AM,null,null,null,null,null,null,null)
+B.X6=new A.cQ("Quotation Tersimpan",null,B.AM,null,null,null,null,null,null,null)
 B.RH=new A.DR(0,"zoomBackground")
 B.Jt=s([B.RH],A.ai("x<DR>"))
-B.GJ=new A.um(B.X7,B.oh,null)
+B.GJ=new A.um(B.X6,B.oh,null)
 B.Rh=new A.cP(null,38,null,null)
 B.GK=new A.j3(1,B.d0,B.Rh,null)
 B.GL=new A.Ag(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -100177,13 +100177,13 @@ B.V2=new A.m(!0,B.b9,null,null,null,null,16,null,null,null,null,null,null,null,n
 B.X1=new A.cQ("Tidak ada hotel yang sesuai.",null,B.V2,null,null,null,null,null,null,null)
 B.X2=new A.cQ("Quotation yang Anda simpan akan muncul di sini.",null,B.iV,null,null,null,null,null,null,null)
 B.X3=new A.cQ("Batal",null,B.iV,null,null,null,null,null,null,null)
-B.Ur=new A.m(!0,B.k,null,null,null,null,36,B.at,null,null,null,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.X4=new A.cQ("Asif Tour",null,B.Ur,B.cH,null,null,null,null,null,null)
 B.UY=new A.m(!0,B.b9,null,null,null,null,10,B.at,null,0.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.X5=new A.cQ("HARGA JUAL / PAX",null,B.UY,null,null,null,null,null,null,null)
-B.X6=new A.cQ("Home",null,null,null,null,null,null,null,null,null)
-B.X8=new A.cQ("Quotation Berhasil Disimpan!",null,null,null,null,null,null,null,null,null)
-B.X9=new A.cQ("Page Not Found",null,B.iU,null,null,null,null,null,null,null)
+B.X4=new A.cQ("HARGA JUAL / PAX",null,B.UY,null,null,null,null,null,null,null)
+B.X5=new A.cQ("Home",null,null,null,null,null,null,null,null,null)
+B.X7=new A.cQ("Quotation Berhasil Disimpan!",null,null,null,null,null,null,null,null,null)
+B.X8=new A.cQ("Page Not Found",null,B.iU,null,null,null,null,null,null,null)
+B.Ur=new A.m(!0,B.k,null,null,null,null,36,B.at,null,null,null,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.X9=new A.cQ("Syafar Tour",null,B.Ur,B.cH,null,null,null,null,null,null)
 B.Xa=new A.cQ("Hapus",null,null,null,null,null,null,null,null,null)
 B.Xb=new A.cQ("Quotation berhasil dihapus",null,null,null,null,null,null,null,null,null)
 B.We=new A.m(!0,B.b9,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
